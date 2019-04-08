@@ -1,0 +1,141 @@
+**************************************************************************
+**		ENGLISH
+**************************************************************************
+The program "peces" allows to play several modalities of tangram. The 
+source code is written in C++ with Qt 4.2 libraries. The file 
+glpeces.pro it is the file of the project.
+
+The code, the files of datum and the help of the program are structured in
+ subdirectories how it is next indicated:
+
+--> help: it contains the help of the program. each subdirectory 
+corresponds to a language (with the corresponding international 
+abbreviation).
+
+-->fig: files of text with the datum to construct the figures proposed
+ by the program. each one of the files corresponds with one of the
+modalities of tangram of the program.
+
+-->scr: all files for source code. 
+
+-->locales: files for the translation from the program.
+
+-->auto: data files for new figures.
+
+-->images: .png files of the program.
+
+-->menu: other files.
+
+
+
+**************************************************************************
+**		ESPAÑOL
+**************************************************************************
+
+		Peces (juego de tangram)
+
+El programa "peces" permite jugar a varias modalidades de tangram. El 
+codigo fuente esta escrito en C++ usando las librerias Qt 4.2. El 
+archivo glpeces.pro és el archivo del projecto.
+
+El codigo, los archivos de datos y la ayuda del programa estan 
+estructurados en subdirectorios como se indica a continuación:
+
+--> help: contiene la ajuda del programa. cada subdirectorio se 
+corresponde a un idioma (con la abreviatura internacional correspondiente).
+ son simples archivos htm.
+
+-->fig: archivos de texto con los datos para construir las figuras
+ propuestas por el programa. cada uno de los archivos se corresponde con
+ una de las modalidades de tangram del programa.
+
+-->scr: los archivos con el código fuente. 
+
+-->locales: archivos para la traducción del programa.
+
+-->auto: archivos de datos para la generación de nuevas figuras.
+
+-->images: archivos de imagenes utilizadas por el program.
+
+
+*************************************************************************
+**		FRANCAIS
+*************************************************************************
+Le programme "peces" permet de jouer à plusieurs modalités de tangram. Le
+ code est écrit en C++ avec Qt 4.2. Le fichier 
+glpeces.pro il est le fichier du projet.
+
+Le code, les fichiers de données et l'aide du programme sont structurés en
+ sous-répertoires comme il|elle est indiqué ensuite :
+
+--> help : contient l'aide du programme. chaque sous-répertoire 
+correspond à une langue (avec l'abréviation internationale correspondante).
+ ils sont des fichiers htm.
+
+-->fig : fichiers de texte avec les données pour construire les 
+figures proposées par le programme. chacun des fichiers correspond à une
+des modalités de tangram du programme.
+
+-->scr : code du programme.
+
+-->locales : fichiers pour la traduction du programme.
+
+-->auto: données pour la génération de nouveaux figures.
+
+-->images: fichiers d'images utilisées par le programme.
+
+
+***************************************************************************
+**		CATALÀ
+***************************************************************************
+El programa "peces" permet jugar a diverses modalitats de tangram. El codi
+font està escrit en C++ amb les llibreries Qt 4.2. L'arxiu glpeces.pro
+és l'arxiu del projecte.
+
+El codi, els arxius de dades i l'ajuda del programa estan estructurats en
+subdirectoris com s'indica a continuació:
+
+--> help: conté l'ajuda del programa. cada subdirectori es correspon a
+un idioma (amb l'abreviatura internacional corresponent). són simples
+arxius htm.
+
+-->fig: arxius de text amb les dades per construir les figures
+proposades pel programa. cada un dels arxius es correspon amb una de
+les modalitats de tangram del programa.
+
+-->scr: codi font del programa.
+
+-->locales: arxius per a la traducció del programa.
+
+-->auto: dades per la generació de noves figures.
+
+-->images: arxius d'imatges fets servir en el programa.
+
+
+***************************************************************************
+**		DEUTSCH
+***************************************************************************
+
+
+Das programm "peces" erlaubt, mehrere modalitäten von tangram zu spielen.
+Der kodex ist in C++/Qt 4.2 geschrieben. 
+Das datei glpeces.por ist das datei des projekts.
+
+Der kodex, die dateien und die hilfe des programms sind in subdirectories
+strukturiert, wie er nun gezeigt wird:
+
+--> help: er enthält die hilfe des programms. jeder subdirectory
+entspricht zu einer sprache (mit der entsprechenden internationalen
+abkürzung). einfach sind dateien htm.
+
+-->fig: textarchive mit den angaben, um die vom programm
+vorgeschlagenen figuren zu bauen. jedes der dateien entspricht einer
+der modalitäten von tangram des programms.
+
+-->scr: Source-Code des Programms.
+
+-->locales: dateien für die übersetzung vom programm.
+
+-->auto: Daten für die Generierung von neuen Figuren.
+
+-->images: Dateien der Bilder, die von der Anwendung verwendet.

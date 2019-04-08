@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2010-2016 Innocent De Marchi <tangram.peces@gmail.com> -->
+<component type="desktop">
+ <id>gnome-power-statistics.desktop</id>
+ <metadata_license>GPL-2.0+</metadata_license>
+ <project_license>GPL-2.0+</project_license>
+ <name>Peces</name>
+ <summary>Play with 40 tangrams and more than 31,000 figures.</summary>
+ <description>
+  <p>
+   Peces allows playing 40 different modalities of tangrams and it includes more
+   than 31,000 figures to solve.
+  </p>
+  <p>The Tangram is an ancient Chinese puzzle game where the player has to arrange
+ a set of figures with 7 polygonal pieces.
+  </p>
+  <p>Other features:</p>
+  <ul>
+   <li>Random generation of new shapes.</li>
+   <li>Customization of the color of the pieces.</li>
+   <li>It is possible to create competitions against your friends.</li>
+   <li>Preserve your personal records.</li>
+  </ul>
+ </description>
+ <screenshots>
+  <screenshot type="default">
+   <image>http://a.fsdn.com/con/app/proj/pecesjocdetangr/screenshots/252310.jpg</image>
+   <caption>The main window showing the application in action</caption>
+  </screenshot>
+ </screenshots>
+ <url type="homepage">http://pecesjocdetangr.sourceforge.net/</url>
+ <update_contact>tangram.peces@gmail.com</update_contact>
+ <project_group>KDE</project_group>
+</component>

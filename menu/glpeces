@@ -1,0 +1,9 @@
+?package(glpeces): \
+   needs="X11" \
+   section="Games/Puzzles" \
+   title="Peces" \
+   longtitle="Peces (Tangram game)" \
+   description="Play with 40 varieties of tangrams and more than 31,000 figures" \
+   command="/usr/games/glpeces" \
+   icon="/usr/share/pixmaps/glpeces.xpm"
+

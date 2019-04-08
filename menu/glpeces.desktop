@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Play with 40 tangrams and more than 31,000 figures
+Comment[ca]=Jugau amb 40 tangrams i més de 31.000 figures
+Comment[es]=Juegue con 40 tangrams y más de 31.000 figuras
+Exec='/usr/games/glpeces'
+GenericName=GLPeces
+GenericName[ca]=GLPeces
+Icon=/usr/share/pixmaps/glpeces.xpm
+Name=GLPeces
+Name[ca]=GLPeces
+StartupNotify=true
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+Categories=Game;LogicGame;
+Keywords=Tangram; logic game

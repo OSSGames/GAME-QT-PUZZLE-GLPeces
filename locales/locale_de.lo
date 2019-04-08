@@ -1,0 +1,724 @@
+simetria.peca=Das aktuelle Stück kippen
+genera.figures.atzar=Generiert zufällige Formen
+Fig_HEX=Stück Sechskant
+#Nous v. 5.0
+agraiments=Dankbarkeit
+#Acknowledgements
+comprova.versio=Nach Updates suchen
+#Check for updates
+Error.versio=Ein Fehler trat auf: die Version konnte nicht überprüft werden 
+#An error occurred when verifying the version
+nova.versio=Eine neue Version ist erhältlich 
+#A new version is available:
+versio.actual=Die installierte Version des Programms ist
+#The installed version of the program is
+versio.nova=Die neue Version ist
+#The new version is
+versio.actualitzada=Ihr Programm ist aktuell
+#Your program is up to date.
+visitau.web=Besuchen Sie die Website, um die neue Version herunterzuladen
+#Visit the website to download the new version.
+genera.figura=Eine Figur erstellen
+#Generate figure
+genera.figures=Figuren erstellen
+#Generate figures (plural)
+generant.figures=Neue Figuren erstellen
+#Generating new figures
+figures.generades=%1 neue Figur/Figuren erstellt
+#Generated %1 new figures
+figures.generades.desades=Die neuen Figuren wurden in der Datei gespeichert \n
+#The new figures have been saved in the file \n
+Nombre.figures.generar=Anzahl der zu erstellenden Figuren: 
+#Number of figures to generate:
+Fig_T16=Figurenserie 16
+#Pieces 16
+comprova.figures=Figuren testen
+#Verify figures
+figures.programa=Im Programm enthaltene Figuren
+#Figures of the program
+figures.noves=Erstellte Figuren 
+#Generated figures
+nivell.figura.generada=Schwierigkeitsniveau : %1
+#Difficulty level: %1
+figures.generades.ToolTip.Carrega=Erstellte Figuren laden
+#Load file generated figures
+semblances.trobades=Ähnliche Figuren: %1
+#Similar figures: %1
+compara.figures.programa=Nach im Programm enthaltenen ähnlichen Figuren suchen
+#Look for similarities with the figures of the program
+compara.figures.generades=Nach erstellten ähnlichen Figuren suchen
+#Look for similarities between the generated figures
+marca.figura.eliminar=Zu löschende Figuren auswählen
+#Mark/unmark the selected figure to eliminate
+desa.canvis.figures.generades=Änderungen der erstellten Figuren speichern 
+#Saves changes in the generated figures
+dades.canvis.figures.generades.error=Es trat ein Fehler auf: die Bearbeitung der Figuren konnte in der Datei nicht gespeichert werden..
+#An error occurred when saving changes in the figures in the file...
+renomena.figures.generades=Alle erstellten Figuren umbenennen 
+#Rename all the generated figures
+temps.estimat=Zeitlimit:
+#To finish:  (time to finish)
+dies=Tage
+#days
+arxiu.figures=Figurendateien
+#Files of figures
+desar.dades.comprovacio=Erstellte Figur speichern?
+#Save data from the figures check?
+desa.canvis.comprovacio=Erstellte Figur speichern
+#Save data from the figures check
+
+
+
+#falten
+Caixa=Feld
+Triangle.desaparegut=Fehlende Dreieck
+Fletza=Pfeil
+Saltador=Sprünge 
+#Jumping
+Jirafa=Giraffe
+Poncella=Kokon
+#Cocoon
+Senyor=Herr
+#Mister
+Marxaire=Spaziergänger
+#Walker
+Dracula=Dracula
+Bressol=Wiege
+#Cradle
+Astronauta=Kosmonaut
+Camperol.xines=Chinesischer Bauer 
+#Chinese peasant
+Arrecada=Ohrring
+#Earring
+Caminant=Spaziergänger
+Cabana=Hütte
+#Hut
+Trangles=Dreiecke
+#Triangles
+Nau.espacial=Raumschiff
+#Spaceship
+Triangle.rectangle=Dreieck-Rechteck 
+#Triangle rectangle 
+Parelelograms=Parallelogramme
+#Parallelograms 
+Respall=Bürste
+#Brush
+Cercle=Kreis
+#Circle
+Banyes=Hörner
+#Horns
+
+#desprès 4.1
+Esglesia=Kirche
+Feli=Katzen
+Figuera=Feige
+Piramide=Pyramide
+Pallasso=Clown
+Ponsella=Knospe
+Cuina=Küche
+Anec.volant=Flying Duck
+Anec.nedant=Ente schwimmen
+Vaixell.paper=Papier Boot
+Dos.poligons=Zwei Polygone
+Paralelogram.incomplet=Parallelogramm unvollständige
+Paralelogram=Parallelogramm
+Hexagon.incomplet=Hexagon unvollständige
+#noves figures
+Faristol=Rednerpult
+Paraigua=Regenschirm
+Serra=Säge
+
+# 4.1
+Desa.Solucio.pregunta=Willst du zu dieser Lösung zu halten?
+Fig_T8E=Teile der acht Elemente
+Fig_T12=Teile 12
+Fig_T5=Teile 5 I
+Fig_T5II=Teile 5 II
+Fig_TA=Teile Armonigrama
+Fig_TREC=Teile rechteckigen
+Pausa=Anschlag
+Continua=Weiterbildung
+
+&Surt=&Quit
+
+Elimina.solucio.pregunta=Entfernen Sie alle Erinnerungen?
+Elimina.record.pregunta=Entfernen Sie die Erinnerung an das Spiel heute?
+Elimina.tots.records.pregunta=Entfernen Sie alle Erinnerungen?
+
+Elimina.record=Alle aktuellen Spielrekorde löschen
+Elimina.tots.records=Alle Rekorde löschen
+carrega.figures.paquet=Teile des Programms laden
+carrega.dades.figures.arxiu=Teile aus einer Datei laden
+Mostra.solucio=Lösung anzeigen
+Coloca.peca=Legt ein Teil ab
+Proposa.figura=Teil vermuten
+cerca.nom.figura=Formname suchen
+Cercant.figura=Formname wird gesucht
+Atura.cerca=Stopp
+continua.cerca.nom.figura=Namen der nächsten Form suchen ... 
+Fig_T7=Teile 7 (klassisch)
+Fig_T5=Teile 5
+Fig_T6=Teile 6 I
+Fig_TF=Fletcher Teile
+Fig_TX=Teile des Chinesen
+Fig_TS=Teile der Weisheit
+Fig_T8=Teile 8
+Fig_T9=Teile 9
+Fig_T10=Teile 10
+Fig_T11=Teile 11
+Fig_TR=Russische Teile
+Fig_T13=Teile 13
+Fig_T14=Teile 14
+Fig_TB=Teile von Brugner
+Fig_TH=Hexagramm-Teile
+Fig_TOU=Ei-Teile
+Fig_COR=Teile des Herzens
+Fig_ST=Teile Stomachion
+Fig_T4=Vier Teile I
+Fig_T4II=Vier Teile II
+Fig_TSL=Sam Lloyd's Teile
+Fig_REG=Regulus-Teile
+Fig_T6II=Teile 6 II
+Fig_T7I=Teile 7 I
+Fig_T7II=Revathi-Teile
+Fig_THEP=Heptex-Teile
+Fig_TCII=Runde Teile 8
+Fig_T9T=Neun Teile
+Fig_TE=Ägyptische Teile
+Fig_EL=Elzzup-Teile
+Fig_TCIRI=Runde Teile 10
+Fig_STII=Stomachion-Teile II
+Fig_STIII=Stomach-Teile
+
+nivell.expert=Experten-Level
+nivell.iniciat=Eingeweihten-Level
+nivell.principiant=Anfänger-Level
+nivell.infantil=Kinder-Level
+esborra.mostra=Beispiel löschen
+comprova.mostra=Beispiel überprüfen
+desa.dades.figura=Form speichern
+Simetria.horitzontal=Horizontale Symmetrie
+Simetria.vertical=Vertikale Symmetrie
+Cerca.figura=Form suchen
+seguent.figura=Nächste Form
+anterior.figura=Vorherige Form
+
+Carrega.concurs=Wettbewerb laden
+Crea.concurs=Neuer Wettbewerb
+Concurs.ToolTip.Afageix=Ausgewählte Form zum Wettbewerb hinzufügen
+Concurs.ToolTip.Elimina=Ausgewählte Form aus dem Wettbewerb löschen
+Concurs.ToolTip.Elimina.Totes=Alle Formen löschen
+Concurs.ToolTip.Atzar=Teile zufällig laden
+Concurs.ToolTip.Desa=Wettbewerb speichern
+Concurs.ToolTip.Carrega=Wettbewerb laden
+Concurs=Wettbewerb
+
+idioma.sistema=Systemsprache
+Language=Deutsch
+idioma=Sprache
+Catala=Català
+Castellano=Castellano
+Portugues=Português
+Frances=Français
+Italia=Italiano
+Alemany=Deutsch
+Angles=English
+Galego=Galego
+
+Web.programa=Webseite des Programms
+Ajuda=Hilfe
+Credits=Über
+Colabora=Am Programm mitwirken
+
+Programa=Programm
+Joc=Spiel
+Jocs.tangram=Tangram-Spiel
+crea.nova.figura=Neue Form erzeugen
+concurs.error=Ein Fehler trat auf, welcher den Wettbewerb verhindert
+nombre.Figures=Bildnummer
+nombre.figures.seleccionar=Bildnummer auswählen
+figura.compacte=Teile verbinden
+Tangrams=Tangramme
+
+Tanca=Schließen
+
+dificultat.baixa=Leicht
+dificultat.mitjana=Mittel
+dificultat.alta=Sehr schwer
+label.nom.figura=Name suchen:
+Dificultat_de_la_figura=Schwierigkeit der Form:
+selecciona.directori=Verzeichnis suchen
+nova.figura.desada.titol=Neue Form in Datei gespeichert.\n
+
+carrega.arxiu.figures=Datei mit der Form suchen
+msg.nomFigura.noTrobada=Teil mit diesem Namen nicht gefunden.
+msg.FiguraNoTrobada=Kein Teil wie dieses gefunden
+msg.FiguraTrobada=%1 Teile gefunden.\n Betrachten Sie die Teile mit den Tasten zum Vor- und Zurückblättern.
+
+Figures=Teile:
+Punts=Punkte:
+nova.figura.error=Beim Speichern des Bildes in eine Datei trat ein Fehler auf ...
+arxiuNoCreat=Die Erstellung der Datei %1 war nicht möglich.
+
+ArxiuNoTrobat=Die Datei der Teile %1 wurde nicht gefunden.
+credits.rotul=Über
+credits.versio=Peces (Tangram-Spiel)
+credits.dretsAutor=I. De Marchi 2000-2010
+credits.llicencia=Unter GPL-Lizenz
+
+
+#noves figures
+Arracada=Ohrring
+Caperutxa=Beichtkind
+Dutxa=Dusche
+Tohem=Totem
+Gladiador=Gladiator
+LLop=Wolf
+Teorema.pitagores.paradoxa=Pythagoras Paradox
+Cosaco=Kosak
+Espiral=Spirale
+Llapis=Stift
+Triangulo.rectangulo=Dreieck und Rechteck
+Piano=Piano
+Fulla=Blatt
+Dos.quadrats=2 Quadrate
+Tres.quadrats=3 Quadrate
+
+Conductor=Fahrer
+Posta.sol=Dämmerung
+Libelula=Drachenflug
+Corbata=Band
+Guineu=Fuchs
+Aixeta=Wasserhahn
+Videojoc=Videospiel
+Capfico=Sprung auf dem Trampolin
+Ioga=Yoga
+E.accent=É
+Grua=Kran
+Triangle.incomplet=Unvollständiges Dreieck
+Quadrilaters=Viereck
+Hexagons=Hexagon
+Telescopi=Teleskop
+Cicliste=Radler
+Obrer=Arbeiter
+
+?=Symbol Frage
+Interrogant=Symbol Frage
+!=!
+1=1
+5.Quadrats=Fünf Quadrate
+A=A 
+Abella=Biene
+Abrac=Umarmung
+Acrobat=Akrobat
+Actriu=Schauspielerin
+Aigua.vent=Wasser und Wind
+Agro=Held
+Aguila=Adler
+Alfil.escacs=Schach-Läufer
+Altaveu=Lautsprecher
+Andiot=Türkei
+Anec=Ente
+Animal=Tier
+Aranya=Spinne
+Arbre=Baum
+Arc=Arche
+Ase=Ass
+Asimetria=Asymmetrie 
+Astruc=Strauß
+Atleta=Athlet
+Aucell=Vogel
+Aucell.paper=Papiervogel
+Avet=Tanne
+Avio=Flugzeug
+B=B
+Bancs=Dock
+Balanci=Schaukelstuhl
+Baldufa=Kreisel
+Baldufa=Kreisel
+Balena=Wal
+Ballari=Tänzer
+Ballarina=Tänzerin
+Barcassa=Barge
+Bascula=Waage
+Basquet=Basketball
+Bevedor=Fontäne
+Bido=Bison
+Biso=Bison
+Bolet=Pilz
+Bombeta=Glühbirne
+Borino=Hummel
+Bota=Boot
+Botella=Flasche
+Bresol=Wiege
+Butaca=Sessel
+C=C
+Cavall.escacs=Schachpferd
+Cavallet.de.mar=Seepferd
+Ca=Hund
+Ca.menjant=Hundefutter
+Ca.corrent=Laufender Hund
+Cabra=Geiß
+Cadira=Stuhl
+Cadira=Stuhl
+Cafetera=Kaffeetopf
+Caiguda=Sturz
+Caixes=Schachtel
+Camara=Kamera
+Cambrer=Bedienung
+Cambrera=Bedienung
+Camell=Kamel
+caminaire=Gehender Mann
+Camiseta=T-Shirt
+camparol.xines=Chinesischer Bauer
+Canal=Kanal
+Canalobre=Kronleuchter
+Cangur=Känguruh
+Cano=Rohr
+Canoa=Kanu
+Cantant=Sänger
+Capell=Hut
+Capella=Kapelle
+Capitel=Kapitell
+Cap.aucell=Kopf eines Vogels
+Cap.lloro=Kopf eines Papageien
+Cap.porc=Kopf eines Schweines
+Cara=Gesicht
+Caragol=Schnecke
+Caragola=Erodium
+Carrossa=Bus
+Casa=Haus
+Casc=Helm
+Cases=Häuser
+Casa.amb.torre=Haus mit Turm
+Castell=Schloss
+Ca.corrent=Laufender Hund
+Cap.ca=Hundegesicht
+Casa.amb.ximeneia=Haus mit Kamin
+Cavall=Pferd
+Cavaller=Ritter
+Cavallet.mar=Seepferdchen
+Cervol=Hirsch
+Cigne=Schwan
+Cinc=Fünf
+Cinta=Band
+Cinte=Band
+Circ=Zirkus
+Ciri=Kerze 
+Clau=Schlüssel
+Cobra=Kobra
+Cocodril=Krokodil
+Coet=Rakete
+Cohet=Rakete
+Colom=Taube
+Colom=Taube
+Colomer=Taubenschlag
+Columna=Spalte
+Coma=Komma
+Conill=Hase
+Conversa=Gespräch
+Copa=Glas
+Cor=Herz
+Corb=Kolkrabe
+Corona=Krone
+Corona=Krone
+Corredor=Läufer
+Cossiol=Blumentopf
+Cotxe=Auto
+Cotxe.bebe=Baby-Trage
+Cranc=Krabbe
+Creu=Kreuz
+Creu.grega=Griechisches Kreuz
+Creu.llatina=Lateinisches Kreuz
+Crustaci=Krebs
+Cupula=Dom
+Cupules=Dome
+C.trencada=Ç
+D=D
+D=D
+dansaire=tanzen
+Dansaire.xines=Chinesischer Tänzer
+Decagon=Zehneck
+Decebut=Enttäuscht
+Delfi=Delfin
+Descans=Pause
+Destral=Axt
+De.puntetes=auf Zehenspitzen gehen
+Diamant=Diamant
+Dinosaure=Dinosaurier
+Dos=Zwei
+Dos.quadrats=Zwei Quadrate
+Drac=Drache
+E=E 
+Edifici=Gebäude
+Eina=Werkzeug
+Equilibri=Balance
+Equilibrista=Drahtseilkünstler
+Elefant=Elefant
+Embarassada=Schwanger
+Encenedor=Anzünder
+Enclusa=Amboss
+Escaire=Winkel
+Escala=Treppe
+Esclop=Clog
+Escolar=Schuljunge
+Escultura=Skulptur
+Escut=Schild
+Esfinx=Sphinx
+Espantaocells=Scheuche
+Espasa=Schwert
+Espelma=Kerze
+esportiste=Sportler
+Esquirol=Eichhörnchen
+Estatua=Statue
+Estel=Drachen
+Estisores=Schere
+Estrella=Stern
+Estruc=Afrikanischer Strauß
+Estudiant=Schüler
+Extintor=Feuerlöscher
+F=F
+Fabrica=Fabrik
+Fada=Elfe
+faig.tard=Ich bin spät
+Falco=Falke
+Fantasma=Geist
+Far=Leuchtturm
+Faraona=Pharao
+Farola=Straßenlicht
+Figura=Form 
+Finestra=Fenster
+Flama=Flamme
+Flama.olimpica=Olympische Flamme
+Flamenc=Flamingo
+Flasco=Behälter
+Fletxa=Pfeil
+Fletxa.doble=Doppelpfeil
+Fletxa.triple=Dreifachpfeil
+Flor=Blume
+Foca=Robbe
+Font=Fontäne
+Futbolista=Football-Spieler
+G=G
+Gall=Gockel
+Gall.indi=Truthahn
+Gallina=Huhn
+Garca=Elster
+Gelat=Eiskrem
+Gerro=Vase
+Gheisa=Gheisa
+Girafa=Giraffe
+Gorrio=Spatz
+Graduacio=Abschlussfeier
+Groucho.Marx=Groucho Marx
+H=H
+Helicopter=Helikopter
+Hexagon=Sechseck
+I=I
+Indi=Indianer
+Indiot=Truthahn
+Insecte=Insekt
+Interior=innen
+J=J
+K=K
+Karate=Karate
+L=L
+Lampara=Lamm
+Lector=Leser
+Llac=Knoten
+Llagosta=Hummer
+Llama=Lama
+Llamp=Blitz
+Llanca=Lanze
+Llantia=Lamm
+Llebre=Hase
+Llegint=Leser
+Lleo=Löwe
+Llit=Bett
+Lloro=Papagei
+Lloro=Papagei
+Locomotora=Lokomotive
+M=M 
+Malabarista=Gaukler
+Martell=Hammer
+Marxaire=Wanderer
+Mascara=Maske
+Mascara=Maske
+Medalla=Medaille
+Merla=Amsel
+Microscopi=Microskop
+Militar=Soldat
+Moix=Katze
+Moli=Mühle
+Moli.cafe=Kaffeemühle
+Moli.holandes=Mühle
+Molinet=Windmühle
+Monea=Affe
+Monea=Affe
+Monjo=Mönch
+Muntanyes=Berg
+Music=Musiker
+N=N
+Nau.espaial=Raumschiff
+Nedador=Schwimmen
+Nessi=Nessi
+Nin=Junge
+Nin.caixa=Puppe mit Kiste
+Nin.papallona=Puppe mit Schmetterling
+Nou=Neun
+Nuvia=Braut
+O=O
+Oca=Gans
+Olla=Gefäß
+Oracio=beten
+Os=Bär
+Os.Yogui=Yogui
+Ou=Ei
+P=P 
+Padri=Pate
+Padrina=Patin
+Paella=Bratpfanne
+Pagoda=Pagode
+Pala=Spaten
+Palafit=Palafito
+Pallaso=Clown
+Papagai=Papagei
+Papa.noel=Santa Claus
+Papallona=Schmetterling
+Paradoxa=Paradoxon
+Parallelogram=Parallelogramm
+Parasol=Sonnenschirm
+Parella=jung
+Passeig.barca=Ausflug im Boot
+Patinador=Schlittschuhläufer
+PC=PC
+Peix=Fisch
+Peixos=Fisch
+Peix.bimbolla=Fisch mit Blase
+Pelican=Pelikan
+Penjador=Anhänger
+Pensador=Denker
+Pentagon=Fünfeck
+Pentagon=Fünfeck
+Peo.escacs=Schach-Bauer
+Persona=Leute
+Persona.amb.paquet=Person mit Paket
+Persona.ca=Person mit Hund
+Persones=Personen
+Pidolaire=betteln
+Pingui=Pinguin
+Pipa=Rohr
+Piramides=Pyramide
+Pistola=Pistole
+Platera=Servierschale
+Planxa=Eisen
+Poligon=Polygon
+Pollastre=Hühnchen
+Poma=Apfel
+Ponsella=Auge
+Pont=Brücke
+Porc=Schwein
+Porc.senglar=Wilder Eber
+Porta=Tür
+Portal=Portal
+Porter=Torwart
+Q=Q
+Quadrat=Quadrat
+Quadrat.buit=Leeres Quadrat
+Quadrat.Desaparegut=Fehlendes Quadrat
+Quadrat.hexagon=Quadrat und Sechseck
+Quadrat.incomplet=Unvollständiges Quadrat
+Quadrats=Quadrate
+Quadrilater=Viereck
+Quadrilater.incomplet=Unvollständiges Viereck
+Quaranta=Vierzig
+Quatre=Vier
+Quiosc=Kiosk
+Quixot=Don Quixote
+R=R
+Radar=Radar
+Raspall=Besen
+ratapinyada=Fledermaus
+Ratoli=Maus
+Rectangle=Rechteck
+Rectangles=Rechtecke
+Rectangle.Quadrat=Rechteck und Quadrat
+Regadora=Gießkanne
+Rei.escacs=Schach-König
+Reina.escacs=Schach-Königin
+Reptil=Reptilie
+Robot=Roboter
+Rombe=Raute
+Rombes=Rauten
+Rosa=Rose
+S=S
+Salt=Sprung
+Salutacio=Gruß
+Samurai=Samurai
+senyor=Gentleman
+Senyor.capell=Mann mit Hut
+Senyora=Madame
+Senyoreta=Fräulein
+Senyoreta.asseguda=Sitzende junge Frau
+Serp=Schlange
+Set=Sieben
+Simetria=Symmetrie
+Sir=Herr
+Sis=Sechs
+Soca=Baustumpf
+Sobre=Charter
+Submari=U-Boot
+Surfista=Surfer
+Surtidor=Zapfsäule
+Titisurf=Titi Surfer
+T=T
+Taula=Tisch
+Taula.menorquina=Menorkinischer Tisch
+Tauro=Hai
+Telefon=Telefon
+Tenda=Zelt
+Teorema.pitagores=Satz des Pythagoras
+Tetera=Teekanne
+Tinter=Tintenfass
+Tobogan=Rutsche
+Torero=Stierkämpfer
+Toro=Stier
+Torre=Turm
+Torre.escacs=Schach-Turm
+Tortuga=Schildkröte
+Trampoli=Trampolin
+Trapezi=Trapez
+Trapezi.perdut=Verlorenes Trapez
+Trapezis=Trapez
+Tres=Drei
+Triangle.Perdut=Lost triangle
+Triangle.truncat=Abgeschnittenes Dreieck
+Triangle=Dreieck
+Triangles=Dreieck
+Triangle.Hexagon=Dreieck und Sechseck
+Triangle.incomplet=Unvollständiges Dreieck
+Triangle.Perdut=Verlorenes Dreieck
+Trineu=Hammer
+Trofeu=Trophäe
+Trompeta=Trompete
+U=U
+Urna=Urne
+V=V
+Vaca=Kuh
+Vaixell=Schiff
+Veler=Segelboot
+Vent.pluja=Wind und Regen
+Ventilador=Lüfter
+Vigilant=wachsam
+Voltor=Geier
+Vuit=Acht
+W=W 
+X=X
+Xalupa=Kleines Boot
+Ximeneies=Kamin
+Xines=Chinese
+Xines.corrent=Laufender Chinese
+Y=Y
+Z=Z
+Z=Z
+Zero=Null

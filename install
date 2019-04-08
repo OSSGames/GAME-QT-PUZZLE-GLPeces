@@ -1,0 +1,50 @@
+INSTALL
+-=-=-=-
+
+for install and build the program, you requires the Qt 5.5.1
+
+delete the old version (see below)
+
+unarchive the .tar source file and go to glpeces-5.2 directory :
+
+> tar -xzvf glpeces-5.2.tar.gz
+> cd glpeces-5.2
+
+
+compile the program
+***with qmake
+> qmake glpeces.pro
+> make
+
+(optionnally make qmake PREFIX=/opt to install the program in the
+/opt directory)
+
+***with cmake
+
+> cmake
+> make
+
+(optionally cmake -DCMAKE_INSTALL_PREFIX=/opt/glpeces-5.2 to 
+install the program in the /opt directory)
+
+copy the program to the install directory 
+
+> su
+> make install
+
+
+clean the new creates files 
+
+> make clean
+
+UNINSTALL
+-=-=-=-=-
+
+if you have change the install directory (in the install.sh file), firts
+ change the install directory in the uninstall.sh file
+
+>su
+>make uninstall
+
+you should manually remove the glpeces directory in the .config users home
+directory.
